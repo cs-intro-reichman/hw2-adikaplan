@@ -14,7 +14,7 @@ public class CalcPi {
 			x = x +2;
 		 }
 		 sum = sum*4;
-		 System.out.println("pi, approximated:"  + sum);
+		 System.out.println("pi, approximated:     "  + sum);
 		 
 		 //problem with the result 
 	}
