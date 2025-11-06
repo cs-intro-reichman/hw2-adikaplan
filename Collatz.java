@@ -20,13 +20,11 @@ public class Collatz {
 				}while(j != 1);
 
 			if(mode.equals("c") == true && i == N){
-					System.out.println();
 			System.out.println("Every one of the first " + N + " hailstone sequences reached 1.");
 
 			}else if (mode.equals("v") == true){ 
 				System.out.println(row + "(" + rounds + ")");
 			if(i == N){
-					System.out.println();
 			System.out.println("Every one of the first " + N + " hailstone sequences reached 1.");
 
 			
